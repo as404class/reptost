@@ -1,0 +1,10 @@
+Общее имя (CN)	code.visualstudio.com
+Организация (O)	Microsoft Corporation
+Подразделение (OU)	<Не является частью сертификата>
+Общее имя (CN)	Microsoft Azure RSA TLS Issuing CA 03
+Организация (O)	Microsoft Corporation
+Подразделение (OU)	<Не является частью сертификата>
+Дата выдачи	вторник, 12 декабря 2023 г. в 11:33:49
+Срок действия	воскресенье, 9 июня 2024 г. в 11:33:49
+Сертификат	9b7ebe787923d7a764c745fac428e22afec735cb9023978ed6a3d68c5fa6c53d
+Открытый ключ	b80c0c7e8f80b56d4d67a72fc74b8aba117f4b92f602165a6e89e7aee1bff4b1
